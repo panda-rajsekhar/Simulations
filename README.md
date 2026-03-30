@@ -81,7 +81,10 @@ Contributions are welcome! 🎉
 ## 📧 Contact
 
 Feel free to connect for collaboration or suggestions.
+Now if you have read this doc this far , there is a Explanation file in each folder which contains the explanation of the key concept of the experiment 
 
 ---
 
 > 🔥 *"Best way to understand theory? Break it, simulate it, and rebuild it."*
+
+>" Made it this far? Nice. Each folder has its own explanation file breaking down the main idea behind the experiment. "
